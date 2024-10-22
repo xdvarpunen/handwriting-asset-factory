@@ -22,6 +22,9 @@ cd AssetFactory\bin\Release\net8.0-windows
 ./AssetFactory.exe "letter_x.csv" 400 400 "background.png"
 ```
 
+![image](https://github.com/user-attachments/assets/0621bb9f-5a93-4e20-a479-db5e5a0f79e3)
+
+
 or
 
 ```powershell
