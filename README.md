@@ -8,3 +8,9 @@ Handwriting assets creation app. Produces with given parameters in CLI a window 
 - Form Customization: The application window can be customized with a title based on the provided CSV filename, width, and height. It opens centered on the screen and has a fixed size.
 
 Use/modify letters.ps1 to produce multiple csv files.
+
+## Usage
+
+```powershell
+./AssetFactory.exe "letter_x.csv" 400 400 "background.png"
+```
